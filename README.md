@@ -35,7 +35,12 @@ Jalankan perintah berikut untuk menginstall semua dependensi yang dibutuhkan.
 npm install
 ```
 
-### 4. Start the Project
+### 4. ENV
+
+Karna untuk tes, jadi keynya saya masukkan ke .env.example.
+silahkan ubah .env menjadi .env.example
+
+### 5. Start the Project
 
 Setelah semua dependensi terinstall, Anda dapat memulai proyek dengan perintah berikut.
 
