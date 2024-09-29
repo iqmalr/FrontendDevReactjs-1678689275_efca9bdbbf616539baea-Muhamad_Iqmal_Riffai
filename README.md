@@ -50,4 +50,4 @@ npm start
 
 ### 6. Vercel
 
-https://frontenddev.vercel.app/
+https://front-end-dev-gamma.vercel.app/
