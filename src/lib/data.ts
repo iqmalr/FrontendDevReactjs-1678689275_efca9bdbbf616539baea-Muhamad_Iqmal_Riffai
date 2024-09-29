@@ -1,5 +1,3 @@
-// import ImageRestaurant from "@/assets/restaurant.jpg";
-
 export type Restaurant = {
   restaurantsId: string;
   name: string;
@@ -20,6 +18,7 @@ export type Restaurant = {
 //     squareImgUrl: ImageRestaurant,
 //     priceTag: "$$",
 //     parentGeoName: "Padang",
+//     // establishmentTypeAndCuisineTags: []
 //   },
 //   {
 //     restaurantsId: "002",

@@ -5,8 +5,11 @@ const HomeLayout = () => {
     <>
       <div>Restaurant</div>
       <div>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius rerum quo
-        debitis voluptate quidem ullam!
+        Ini adalah proyek yang saya buat saat mengikuti tes masuk di perusahaan
+        terakhir. Saya menggunakan RapidAPI, namun mohon maaf karena saya
+        menggunakan versi gratis, jadi batas maksimal request data hanya 50 kali
+        per bulan. Anda bisa melihat kode sumber saya di:
+        https://github.com/iqmalr/FrontEndDev.
       </div>
       <RestaurantList />
     </>

@@ -47,3 +47,7 @@ Setelah semua dependensi terinstall, Anda dapat memulai proyek dengan perintah b
 ```bash
 npm start
 ```
+
+### 6. Vercel
+
+https://frontenddev.vercel.app/
