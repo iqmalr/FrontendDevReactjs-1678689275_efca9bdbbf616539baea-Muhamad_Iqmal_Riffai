@@ -50,4 +50,4 @@ npm start
 
 ### 6. Vercel
 
-https://FrontendDevReactjs-1678689275_efca9bdbbf616539baea-Muhamad_Iqmal_Riffai.vercel.app/
+https://frontend-dev-reactjs-1678689275-efca9bdbbf616539baea-gqgq151cm.vercel.app/

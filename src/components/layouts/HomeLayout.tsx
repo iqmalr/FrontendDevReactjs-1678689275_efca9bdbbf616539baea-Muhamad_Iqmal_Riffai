@@ -9,7 +9,8 @@ const HomeLayout = () => {
         terakhir. Saya menggunakan RapidAPI, namun mohon maaf karena saya
         menggunakan versi gratis, jadi batas maksimal request data hanya 50 kali
         per bulan. Anda bisa melihat kode sumber saya di:
-        https://github.com/iqmalr/FrontEndDev.
+        https://github.com/iqmalr/FrontendDevReactjs-1678689275_efca9bdbbf616539baea-Muhamad_Iqmal_Riffai
+        .
       </div>
       <RestaurantList />
     </>
