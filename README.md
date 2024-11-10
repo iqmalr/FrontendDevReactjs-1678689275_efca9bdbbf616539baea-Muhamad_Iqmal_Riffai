@@ -51,3 +51,4 @@ npm start
 ### 6. Vercel
 
 https://frontend-dev-reactjs-1678689275-efca9bdbbf616539baea-gqgq151cm.vercel.app/
+https://frontend-dev-reactjs-1678689275-muhamad-iqmal-riffais-projects.vercel.app/
