@@ -16,7 +16,7 @@ Ikuti langkah-langkah berikut untuk memulai proyek ini:
 Clone repository ini ke dalam direktori lokal Anda.
 
 ```bash
-git clone https://github.com/username/FrontEndDev.git
+git clone https://github.com/iqmalr/FrontendDevReactjs-1678689275_efca9bdbbf616539baea-Muhamad_Iqmal_Riffai
 ```
 
 ### 2. Navigate to Project Directory
@@ -24,7 +24,7 @@ git clone https://github.com/username/FrontEndDev.git
 Masuk ke dalam direktori proyek yang baru saja Anda clone.
 
 ```bash
-cd FrontEndDev
+cd FrontendDevReactjs-1678689275_efca9bdbbf616539baea-Muhamad_Iqmal_Riffai
 ```
 
 ### 3. Install Dependencies
@@ -50,4 +50,4 @@ npm start
 
 ### 6. Vercel
 
-https://front-end-dev-gamma.vercel.app/
+https://FrontendDevReactjs-1678689275_efca9bdbbf616539baea-Muhamad_Iqmal_Riffai.vercel.app/
